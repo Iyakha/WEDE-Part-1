@@ -191,3 +191,16 @@ https://www.ravensdale.co.za/how-much-does-a-website-cost-in-south-africa/?utm_s
 https://www.freepik.com/photos 
 
 OpenAI 2025 
+https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/doc2.aspx?sourcedoc=%7B2A1C13AD-7F25-4A88-94F6-64963DE487AD%7D&file=WEDE5020wPOE.docx&action=default&mobileredirect=true
+
+
+
+Screenshots of different sized pages:
+Desktop screen:
+<img width="1359" height="650" alt="Desktop screen" src="https://github.com/user-attachments/assets/1ac83542-1403-4afe-a3d9-8be95bbe0fec" />
+Smartphone screen:
+<img width="474" height="626" alt="Smartphone screen" src="https://github.com/user-attachments/assets/fa43aa8a-0b2d-4c80-a3ae-398ff0542bdf" />
+Tablet screen:
+<img width="999" height="599" alt="Tablet screen" src="https://github.com/user-attachments/assets/93d19355-cb1f-48f0-97e4-085083d66f7b" />
+
+
