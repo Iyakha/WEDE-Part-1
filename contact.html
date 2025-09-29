@@ -4,10 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Website Title</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles/contact page.css">
     <script src="js/scripts.js" defer></script>
 </head>
 <body>
+
+    <div class="product-header">
+        <img src="icons/hamburger icon.jpg" class="hamburger-icon">
+        <img src="icons/ChatGPT Image Aug 17, 2025, 09_47_40 AM.png" alt="Coffee Shop Logo" class="logo">
+        <p style="color: #5b2b05;
+                  text-decoration: underline;
+                  text-decoration-color: #5b2b05;
+                  text-underline-offset: 5px;
+                  font-style: italic;">
+                  Make reservation
+        </p>
+    </div>
+
 
 
     <!--This is the navigation the user is going to use-->
@@ -21,40 +34,56 @@
     </nav>
 
 
+    <div class="brown-color"></div>
+
+
     
 
-    <main>
+    <main class="contact-info-container">
         <!--This is where the user will get contact information-->
-        <h3>Visit Us:</h3>
-        <p>
+        <div class="contact-info">
+            <h3>Visit Us:</h3>
+            <p>
             Rave Street 46/A
-            Manchester
-            +11 222 333 444
-        </p>
+            </p>
+            <p>Manchester</p>
+            <p>+11 222 333 444</p>
+            
 
-        <h3>Enquiries At:</h3>
-        <p>coffeebean@gmail.com</p>
+            <h3>Enquiries At:</h3>
+            <p>coffeebean@gmail.com</p>
+        </div>
+        
 
         <!--These are the times the shop operates by-->
-        <h3>Monday - Thursday</h3>
-        <p>11:30 - 14:30, 18:00 - 22:30</p>
+        <div class="operating-hours">
+            <h3>Monday - Thursday</h3>
+            <p>11:30 - 14:30, 18:00 - 22:30</p>
 
-        <h3>Friday - Saturday</h3>
-        <p>11:00 - 14:00, 18:00 - 22:30</p>
+            <h3>Friday - Saturday</h3>
+            <p>11:00 - 14:00, 18:00 - 22:30</p>
 
-        <h3>Sunday</h3>
-        <p>11:00 - 14:00</p>
-
-        <h3>Contact form</h3>
-        <input placeholder="Full name"></input>
-        <textarea rows="8" columns="150"></textarea>
-
-        <button>Send</button>
+            <h3>Sunday</h3>
+            <p>11:00 - 14:00</p>
+        </div>
+        
+        <div class="contact-form">
+            <h3>Contact form</h3>
+            <div>
+                <input placeholder="Full name" size="50"></input>
+            </div>
+            <div>
+                <textarea rows="8" cols="50"></textarea>
+            </div>
+            <div>
+                <button>Send</button>
+            </div>
+        </div>
+        
+        
     </main>
 
 
-    <footer>
-        <p></p>
-    </footer>
+    <div class="brown-color"></div>
 </body>
 </html>

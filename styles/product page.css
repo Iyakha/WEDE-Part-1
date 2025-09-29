@@ -1,0 +1,80 @@
+body{
+    font-family: sans-serif, arial;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.logo{
+    width: 60px;
+    height:60px;
+    border-radius: 50%;
+    margin-left: 60px;
+}
+header, .product-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.middle-section li a{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    font-size: 1.5em;
+    color: white;
+    font-family: sans-serif, arial;
+}
+.hamburger-icon{
+    width: 35px;
+}
+
+.menu{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 800px;
+}
+.coffee, .buns, .dessert{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.item p{
+    display: inline-block;
+}
+h2, h1{
+    text-align: center;
+    font-family: Sans-serif, arial;
+    color: #5b2b05;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-color:#5b2b05;
+    text-underline-offset: 10px; 
+}
+.dessert-icon,.bun-icon{
+    width: 30px;
+}
+.dessert-icon-container, .bun-icon-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.order-button{
+    background-color: #5b2b05;
+    color: white;
+    padding: 10px 10px;
+    font-size: 1em;
+    border-radius: 8px;
+    border: none;
+    transition: background-color, border, color 0.5s;
+}
+.order-button:hover{
+    background-color: white;
+    border: 1px solid #5b2b05;
+    color: #5b2b05;
+}
