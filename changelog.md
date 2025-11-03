@@ -1,1 +1,1 @@
-
+I added some css changes to the home, about us, product, and the contact page. I also made the website responsive by adding media queries to my code. I also added some new references. What I also did was make a separate css file for all the pages on the websites. I made all these changes due to the part 1 feedback I got from the lecturer which also helped me in choosing which design proposal to go with.
