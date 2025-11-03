@@ -19,7 +19,7 @@ Content research and sourcing.............................................. pg 8
 Reference.............................................................................. pg 9 
 
  
-
+I have added a search products page and also fixed some CSS for the index page. I have also implemented SEO and I also made a document a progress document. I also added a form to my website.
  
 
  
@@ -204,3 +204,4 @@ Tablet screen:
 <img width="999" height="599" alt="Tablet screen" src="https://github.com/user-attachments/assets/93d19355-cb1f-48f0-97e4-085083d66f7b" />
 
 
+"# wede5020w-poe-Iyakha" 
